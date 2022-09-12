@@ -1,6 +1,6 @@
 # Calculator-server-code
 
-An API for to calculate equation result.
+An API to calculate equation result.
 
 Deployed on heroku.
 
